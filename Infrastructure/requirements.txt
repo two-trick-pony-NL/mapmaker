@@ -29,3 +29,4 @@ mock
 redis
 
 pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
