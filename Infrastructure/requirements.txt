@@ -3,7 +3,7 @@ mysqlclient==2.1.1
 environ==1.0
 django-environ
 gunicorn==20.1.0
-setuptools==65.5.1
+setuptools==70.0.0
 requests==2.31.0
 django-ckeditor==6.5.1
 django-tailwind==3.5.0
